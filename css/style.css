@@ -1182,8 +1182,10 @@ input[type="tel"] {
 
 .popular__body {
   margin: 0 50px;
-  border-right: 1px solid #B3B3B4;
-  border-left: 1px solid #B3B3B4;
+}
+
+.popular__body .swiper-wrapper {
+  margin: 0 1px;
 }
 
 .popular__slide {
