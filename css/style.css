@@ -1182,10 +1182,7 @@ input[type="tel"] {
 
 .popular__body {
   margin: 0 50px;
-}
-
-.popular__body .swiper-wrapper {
-  margin: 0 1px;
+  border-right: 1px solid #B3B3B4;
 }
 
 .popular__slide {
@@ -1226,6 +1223,7 @@ input[type="tel"] {
 }
 
 .item-product {
+  margin-left: 2px;
   padding: 15px 10px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1418,6 +1416,7 @@ input[type="tel"] {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 25%;
           flex: 0 0 25%;
+  margin-left: 0;
   margin-bottom: 40px;
 }
 
