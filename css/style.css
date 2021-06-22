@@ -731,7 +731,7 @@ input[type="tel"] {
 
 .catalog-header__title-section {
   position: relative;
-  padding-right: 25px;
+  padding-right: 20px;
   font-size: 19px;
   font-weight: 700;
   text-transform: uppercase;
@@ -1739,7 +1739,7 @@ input[type="tel"] {
 
 @media (max-width: 1599.98px) {
   ._container {
-    max-width: 1260px;
+    max-width: 1250px;
   }
 
   .catalog-header__title-section {
